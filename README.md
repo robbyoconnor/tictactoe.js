@@ -11,7 +11,7 @@
 
 **Requires Node.js 4.2+ and [Babel](https://babeljs.io/)**
 
-#To Run
+# To Run
 
 This must be run using `babel-node` for now since ES6 modules are not yet available in V8 yet, and as such are not in Node.JS yet.
 

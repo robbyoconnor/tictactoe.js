@@ -1,5 +1,5 @@
 'use strict';
-import Game from './Game';
+import Game from '../lib/Game';
 
 const game = new Game();
 
