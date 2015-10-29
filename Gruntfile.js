@@ -23,7 +23,7 @@ module.exports = function (grunt) {
         wrap_attributes: 'auto',
         wrap_attributes_indent_size: 2
       },
-      files: ['lib/*.js']
+      files: ['lib/**/*.js']
     }
   });
   grunt.loadNpmTasks('grunt-js-beautify');
