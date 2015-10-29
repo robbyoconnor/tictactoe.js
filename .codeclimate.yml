@@ -1,0 +1,17 @@
+---
+engines:
+  eslint:
+    enabled: true
+    checks:
+      no-param-reassign:
+        enabled: false
+      no-exec:
+        enabled: false
+  fixme:
+    enabled: true
+ratings:
+  paths:
+  - "**.js"
+  - "lib/**/**.js"
+  - "bin/**.js"
+exclude_paths: []
