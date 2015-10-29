@@ -1,13 +1,5 @@
 module.exports = function (grunt) {
   grunt.initConfig({
-    eslint: {
-      target: ['lib/*.js'],
-
-      options: {
-        quiet: true,
-        fix: true
-      }
-    },
     js_beautify: {
       options: {
         end_with_newline: false,
@@ -34,7 +26,6 @@ module.exports = function (grunt) {
       files: ['lib/*.js']
     }
   });
-  grunt.loadNpmTasks('grunt-eslint');
   grunt.loadNpmTasks('grunt-js-beautify');
-  grunt.registerTask('default', ['eslint', 'js_beautify']);
+  grunt.registerTask('default', ['js_beautify']);
 };
