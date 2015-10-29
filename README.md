@@ -1,5 +1,5 @@
 # Tic Tac Toe written in Javascript (ES6) using Node.js
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Code Climate](https://codeclimate.com/github/robbyoconnor/tictactoe.js/badges/gpa.svg)](https://codeclimate.com/github/robbyoconnor/tictactoe.js)
 ![Github License](https://img.shields.io/badge/License-MIT-green.svg)
 [![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
