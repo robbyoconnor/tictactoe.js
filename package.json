@@ -1,8 +1,8 @@
 {
   "name": "tictactoe.js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Yet another tic tac toe game written in javascript",
-  "main": "./lib/main.js",
+  "main": "./bin/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
