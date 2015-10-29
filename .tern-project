@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "node": {},
+    "modules": {
+    "dontLOad": "false",
+    "load": "true"},
+    "requirejs": {}
+  }
+}

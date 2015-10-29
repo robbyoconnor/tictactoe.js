@@ -1,0 +1,39 @@
+---
+extends: airbnb
+env:
+  node: true
+  es6: true
+  amd: true
+ecmaFeatures:
+    arrowFunctions: true
+    binaryLiterals: true
+    BlockingBindings: true
+    classes: true
+    defaultParams: true
+    destructuring: true
+    forOf: true
+    generators: true
+    modules: true
+    objectLiteralComputedProperties: true
+    objectLiteralDuplicateProperties: true
+    objectLiteralShorthandMethods: true
+    objectLiteralShorthandProperties: true
+    octalLiterals: true
+    regexUFlag: true
+    regexYFlag: true
+    restParams: true
+    spread: true
+    superInFunctions: true
+    templateStrings: true
+    unicodeCOdePointEscapes: true
+    globalReturn: true
+rules:
+  comma-dangle: 0
+  strict: 0
+  no-console: 0
+  id-length: 0
+  func-names: 0
+  eol: 0
+  no-param-reassign: 2 
+
+

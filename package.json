@@ -1,0 +1,37 @@
+{
+  "name": "tictactoe.js",
+  "version": "0.0.1",
+  "description": "Yet another tic tac toe game written in javascript",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/robbyoconnor/tictactoe.js.git"
+  },
+  "keywords": [
+    "tictactoe"
+  ],
+  "author": "Robert O'Connor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robbyoconnor/tictactoe.js/issues"
+  },
+  "homepage": "https://github.com/robbyoconnor/tictactoe.js#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "cli-color": "^1.1.0",
+    "lodash": "^3.10.1",
+    "readline-sync": "^1.2.21"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.6.0",
+    "eslint-config-airbnb": "^0.1.0",
+    "eslint-plugin-react": "^3.5.1",
+    "grunt": "^0.4.5",
+    "grunt-eslint": "^17.3.0",
+    "grunt-js-beautify": "^0.1.4"
+  }
+}
