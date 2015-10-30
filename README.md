@@ -68,5 +68,6 @@ Terminology for the diagonals is taken from Linear Algebra's Matrix terminology.
 This design can be  very easily tweaked to handle the [n-queens problem](http://en.wikipedia.org/wiki/Eight_queens_puzzle).
 
 If we relax the requirement that the board size be square, then we have [Connect Four](http://en.wikipedia.org/wiki/Connect_Four).
-  
+
+This was ported from a [similar implementation written in ruby](https://github.com/robbyoconnor/tictactoe).
 
