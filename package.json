@@ -1,6 +1,6 @@
 {
   "name": "tictactoe.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Yet another tic tac toe game written in javascript",
   "main": "./bin/main.js",
   "scripts": {
