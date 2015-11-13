@@ -2,6 +2,7 @@
 [![Code Climate](https://codeclimate.com/github/robbyoconnor/tictactoe.js/badges/gpa.svg)](https://codeclimate.com/github/robbyoconnor/tictactoe.js)
 [![npm version](https://badge.fury.io/js/tictactoe.js.svg)](https://badge.fury.io/js/tictactoe.js)
 ![Github License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Made with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/develop/assets/spacemacs-badge.svg)](http://github.com/syl20bnr/spacemacs)
 [![forthebadge](http://forthebadge.com/images/badges/as-seen-on-tv.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
