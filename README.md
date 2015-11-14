@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/robbyoconnor/tictactoe.js.png?label=ready&title=Ready)](https://waffle.io/robbyoconnor/tictactoe.js)
 # Tic Tac Toe written in Javascript (ES6) using Node.js
 [![Code Climate](https://codeclimate.com/github/robbyoconnor/tictactoe.js/badges/gpa.svg)](https://codeclimate.com/github/robbyoconnor/tictactoe.js)
 [![npm version](https://badge.fury.io/js/tictactoe.js.svg)](https://badge.fury.io/js/tictactoe.js)
